@@ -1,0 +1,11 @@
+body {
+    background: blanchedalmond;
+}
+
+#output {
+    justify-content: center;
+    background: antiquewhite;
+    flex-direction: row;
+    font-family: "Book Antiqua";
+    font-size: 25px;
+}
